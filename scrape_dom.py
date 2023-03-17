@@ -4,14 +4,7 @@ import os
 import time
 import urllib3
 import tldextract
-
-#Thread safety.
-#Connection pooling.
-#Client-side TLS/SSL verification.
-#File uploads with multipart encoding.
-#Helpers for retrying requests and dealing with HTTP redirects.
-#Support for gzip, deflate, and brotli encoding.
-#Proxy support for HTTP and SOCKS.
+from bs4 import BeautifulSoup
 
 #create a pool to store sites
 pool = urllib3.PoolManager(num_pools=5)
@@ -46,7 +39,19 @@ def storage(uriname,Hstore, Dstore):
     with open(os.path.join('Data_Files/',rootB), 'w') as Bwriter:
         Bwriter.write(Dstore)
             
-
+def custom_search(Dstore, query):
+    soup_doc = BeautifulSoup(Dstore, 'lxml')
+    search_content = soup_doc.find_all(str(query))
+    #Organise and store content
+    for ele in search_content:
+        store = f"{ele} \n"
+        with open('Data_Files/data.txt', 'a') as tar_data:
+            tar_data.write(store)
+    print("Done")
+            
+        
+        
+    
 
 def display(web):
     header = web.headers
@@ -78,6 +83,9 @@ while True:
     Hstore, Dstore = display(web)
     storage(uriname, Hstore, Dstore)
     os.system("clear")
+    search = input("search > ")
+    custom_search(Dstore, search)
+    time.sleep(10)
     exit = input("Do you wish to exit?(y/n)")
     if exit == 'y':
         continue

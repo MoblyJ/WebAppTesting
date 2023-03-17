@@ -1,0 +1,2 @@
+Header 
+Date , Tue, 14 Mar 2023 21:46:52 GMTServer , ApacheX-Powered-By , PHP/7.4.33Expires , Thu, 19 Nov 1981 08:52:00 GMTCache-Control , no-store, no-cache, must-revalidatePragma , no-cacheLink , <https://okoboji.in/wp-json/>; rel="https://api.w.org/", <https://okoboji.in/wp-json/wp/v2/pages/12>; rel="alternate"; type="application/json", <https://okoboji.in/>; rel=shortlinkSet-Cookie , PHPSESSID=781afcb7251c68c5d811441b99cab9a2; path=/Upgrade , h2,h2cConnection , UpgradeVary , Accept-Encoding,User-AgentTransfer-Encoding , chunkedContent-Type , text/html; charset=UTF-8

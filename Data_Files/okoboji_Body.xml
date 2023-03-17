@@ -1,0 +1,537 @@
+ Source Code 
+b'<!DOCTYPE html> 
+<html lang="en-US"> 
+<head> 
+\t<meta charset="UTF-8"> 
+\t<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />\t\t<title>\xe3\x82\xaa\xe3\x82\xab\xe3\x83\x9c\xe3\x82\xb8 &#8211; Okoboji</title> 
+<meta name=\'robots\' content=\'max-image-preview:large\' /> 
+<link rel=\'dns-prefetch\' href=\'//fonts.googleapis.com\' /> 
+<link href=\'https://fonts.gstatic.com\' crossorigin rel=\'preconnect\' /> 
+<link rel="alternate" type="application/rss+xml" title="\xe3\x82\xaa\xe3\x82\xab\xe3\x83\x9c\xe3\x82\xb8 &raquo; Feed" href="https://okoboji.in/feed/" /> 
+<link rel="alternate" type="application/rss+xml" title="\xe3\x82\xaa\xe3\x82\xab\xe3\x83\x9c\xe3\x82\xb8 &raquo; Comments Feed" href="https://okoboji.in/comments/feed/" /> 
+<script type="text/javascript"> 
+window._wpemojiSettings = {"baseUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/14.0.0\\/72x72\\/","ext":".png","svgUrl":"https:\\/\\/s.w.org\\/images\\/core\\/emoji\\/14.0.0\\/svg\\/","svgExt":".svg","source":{"concatemoji":"https:\\/\\/okoboji.in\\/wp-includes\\/js\\/wp-emoji-release.min.js?ver=6.1.1"}}; 
+/*! This file is auto-generated */ 
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings); 
+</script> 
+<style type="text/css"> 
+img.wp-smiley, 
+img.emoji { 
+\tdisplay: inline !important; 
+\tborder: none !important; 
+\tbox-shadow: none !important; 
+\theight: 1em !important; 
+\twidth: 1em !important; 
+\tmargin: 0 0.07em !important; 
+\tvertical-align: -0.1em !important; 
+\tbackground: none !important; 
+\tpadding: 0 !important; 
+} 
+</style> 
+\t<link rel=\'stylesheet\' id=\'karna-default-fonts-css\' href=\'//fonts.googleapis.com/css?family=Merriweather:300,300italic,regular,italic,700,700italic,900,900italic|Montserrat:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Fira+Sans:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'karna-fonts-css\' href=\'//fonts.googleapis.com/css?family=Rubik:300,300italic,regular,italic,500,500italic,700,700italic,900,900italic\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'sbi_styles-css\' href=\'https://okoboji.in/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'bdt-uikit-css\' href=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/css/bdt-uikit.css?ver=3.5.5\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'element-pack-site-css\' href=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/css/element-pack-site.css?ver=5.9.4\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'wp-block-library-css\' href=\'https://okoboji.in/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'wc-blocks-vendors-style-css\' href=\'https://okoboji.in/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.5.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'wc-blocks-style-css\' href=\'https://okoboji.in/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.5.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'embedpress_blocks-cgb-style-css-css\' href=\'https://okoboji.in/wp-content/plugins/embedpress/Gutenberg/dist/blocks.style.build.css?ver=1666846426\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'classic-theme-styles-css\' href=\'https://okoboji.in/wp-includes/css/classic-themes.min.css?ver=1\' type=\'text/css\' media=\'all\' /> 
+<style id=\'global-styles-inline-css\' type=\'text/css\'> 
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url(\'#wp-duotone-dark-grayscale\');--wp--preset--duotone--grayscale: url(\'#wp-duotone-grayscale\');--wp--preset--duotone--purple-yellow: url(\'#wp-duotone-purple-yellow\');--wp--preset--duotone--blue-red: url(\'#wp-duotone-blue-red\');--wp--preset--duotone--midnight: url(\'#wp-duotone-midnight\');--wp--preset--duotone--magenta-yellow: url(\'#wp-duotone-magenta-yellow\');--wp--preset--duotone--purple-green: url(\'#wp-duotone-purple-green\');--wp--preset--duotone--blue-orange: url(\'#wp-duotone-blue-orange\');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;} 
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;} 
+:where(.wp-block-columns.is-layout-flex){gap: 2em;} 
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;} 
+</style> 
+<link rel=\'stylesheet\' id=\'aps-animate-css-css\' href=\'https://okoboji.in/wp-content/plugins/accesspress-social-icons/css/animate.css?ver=1.8.5\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'aps-frontend-css-css\' href=\'https://okoboji.in/wp-content/plugins/accesspress-social-icons/css/frontend.css?ver=1.8.5\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'contact-form-7-css\' href=\'https://okoboji.in/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'style_rm_rating-css\' href=\'https://okoboji.in/wp-content/plugins/registrationmagic-premium-v5.0.0.9/public/js/rating3/rateit.css?ver=5.1.8.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'rm_theme_matchmytheme_two_columns-css\' href=\'https://okoboji.in/wp-content/plugins/custom-registration-form-builder-with-submission-manager/public/css/theme_rm_matchmytheme_two_columns.css?ver=5.1.8.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'rm_theme_matchmytheme_two_columns_addon-css\' href=\'https://okoboji.in/wp-content/plugins/registrationmagic-premium-v5.0.0.9/public/css/theme_rm_matchmytheme_two_columns.css?ver=5.1.8.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'RegistrationMagic-css\' href=\'https://okoboji.in/wp-content/plugins/custom-registration-form-builder-with-submission-manager/public/css/style_rm_front_end.css?ver=5.1.8.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'RegistrationMagic_addon-css\' href=\'https://okoboji.in/wp-content/plugins/registrationmagic-premium-v5.0.0.9/public/css/style_rm_front_end.css?ver=5.1.8.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'embedpress-css\' href=\'https://okoboji.in/wp-content/plugins/embedpress/assets/css/embedpress.css?ver=6.1.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'woocommerce-layout-css\' href=\'https://okoboji.in/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.0.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'woocommerce-smallscreen-css\' href=\'https://okoboji.in/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.0.0\' type=\'text/css\' media=\'only screen and (max-width: 768px)\' /> 
+<link rel=\'stylesheet\' id=\'woocommerce-general-css\' href=\'https://okoboji.in/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.0.0\' type=\'text/css\' media=\'all\' /> 
+<style id=\'woocommerce-general-inline-css\' type=\'text/css\'> 
+.woocommerce .page-header-image-single {display: none;}.woocommerce .entry-content,.woocommerce .product .entry-summary {margin-top: 0;}.related.products {clear: both;}.checkout-subscribe-prompt.clear {visibility: visible;height: initial;width: initial;}@media (max-width:768px) {.woocommerce .woocommerce-ordering,.woocommerce-page .woocommerce-ordering {float: none;}.woocommerce .woocommerce-ordering select {max-width: 100%;}.woocommerce ul.products li.product,.woocommerce-page ul.products li.product,.woocommerce-page[class*=columns-] ul.products li.product,.woocommerce[class*=columns-] ul.products li.product {width: 100%;float: none;}} 
+</style> 
+<style id=\'woocommerce-inline-inline-css\' type=\'text/css\'> 
+.woocommerce form .form-row .required { visibility: visible; } 
+</style> 
+<link rel=\'stylesheet\' id=\'google-fonts-css\' href=\'//fonts.googleapis.com/css?family&#038;ver=1.4.4\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'google-fonts-title-css\' href=\'//fonts.googleapis.com/css?family&#038;ver=1.4.4\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'wpfm-frontend-font-awesome-css\' href=\'https://okoboji.in/wp-content/plugins/wp-floating-menu/css/font-awesome/font-awesome.min.css?ver=6.1.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'wpfm-frontend-genericons-css-css\' href=\'https://okoboji.in/wp-content/plugins/wp-floating-menu/css/genericons.css?ver=6.1.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'wpfm-frontend-css-css\' href=\'https://okoboji.in/wp-content/plugins/wp-floating-menu/css/front-end.css?ver=6.1.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'dashicons-css\' href=\'https://okoboji.in/wp-includes/css/dashicons.min.css?ver=6.1.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'wpfm-frontend-vesper-icons-css-css\' href=\'https://okoboji.in/wp-content/plugins/wp-floating-menu/css/vesper-icons.css?ver=6.1.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'karna-style-grid-css\' href=\'https://okoboji.in/wp-content/themes/karna/css/unsemantic-grid.min.css?ver=1.1.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'karna-style-css\' href=\'https://okoboji.in/wp-content/themes/karna/style.min.css?ver=1.1.0\' type=\'text/css\' media=\'all\' /> 
+<style id=\'karna-style-inline-css\' type=\'text/css\'> 
+body{color:#222422;}a, a:visited{color:#111428;text-decoration:none;}a:hover, a:focus, a:active{text-decoration:none;}body .grid-container{max-width:1170px;}body, button, input, select, textarea{font-family:"Rubik", sans-serif;font-weight:200;font-size:18px;}.top-bar{font-family:"Montserrat";}.main-title{font-family:"Fira Sans";}.page-header-blog-content h2{font-family:"Fira Sans";}.main-navigation a, .menu-toggle{font-family:"Fira Sans";}.main-navigation .main-nav ul ul li a{font-size:16px;}.widget-title{font-family:"Fira Sans";}button:not(.menu-toggle),html input[type="button"],input[type="reset"],input[type="submit"],.button,.button:visited{font-family:"Montserrat";}.site-info{font-family:"Montserrat";}@media (max-width:768px){.main-title{font-size:25px;}h1{font-size:30px;}h2{font-size:25px;}}.top-bar{background-color:#222422;color:#f5f5f5;}.top-bar a,.top-bar a:visited{color:#f39d35;}.top-bar a:hover{color:#f5f5f5;}.site-header, .transparent-header.nav-below-header .site-header{background-color:#f5f5f5;color:#222422;}.site-header a,.site-header a:visited{color:#222422;}.site-header a:hover{color:#222422;}.main-title a,.main-title a:hover,.main-title a:visited{color:#f39d35;}.site-description{color:#222422;}.main-navigation,.main-navigation ul ul,.transparent-header .main-navigation.is_stuck{background-color:#f5f5f5;}.main-navigation .main-nav ul li a,.menu-toggle{color:#222422;}.navigation-effect-styleb #site-navigation .main-nav ul li.menu-item a::before,.navigation-effect-styleb #site-navigation .main-nav ul li.menu-item a::after,.navigation-effect-stylec #site-navigation .main-nav ul li.menu-item a::before,.navigation-effect-stylec #site-navigation .main-nav ul li.menu-item a::after{background-color:#222422;}.main-navigation .main-nav ul li:hover > a,.main-navigation .main-nav ul li:focus > a, .main-navigation .main-nav ul li.sfHover > a{color:#f39d35;}.navigation-effect-styleb #site-navigation .main-nav ul li.menu-item a:hover::before,.navigation-effect-styleb #site-navigation .main-nav ul li.menu-item a:hover::after,.navigation-effect-stylec #site-navigation .main-nav ul li.menu-item a:hover::before,.navigation-effect-stylec #site-navigation .main-nav ul li.menu-item a:hover::after{background-color:#f39d35;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#222422;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#f39d35;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#f39d35;}.inside-navigation .search-form input[type="search"]:focus{color:#f39d35;}.main-navigation ul ul{background-color:#222422;}.main-navigation .main-nav ul ul li a{color:#f5f5f5;}.main-navigation .main-nav ul ul li:hover > a,.main-navigation .main-nav ul ul li:focus > a,.main-navigation .main-nav ul ul li.sfHover > a{color:#f39d35;}.page-header-blog{background-color:#f5f5f5;}.page-header-blog-content h2{color:#222422;text-shadow:0px 0px 12px rgba(255,255,255,0);}.page-header-blog-content p{color:#222422;}.page-header-blog-content a.button{color:#222422;}.page-header-blog-content a.button{background-color:#f39d35;}.page-header-blog-content a.button:hover{color:#f5f5f5;}.page-header-blog-content a.button:hover{background-color:#222422;}.sidebar .widget{color:#222422;background-color:#f39d35;}.sidebar .widget a,.sidebar .widget a:visited{color:#f5f5f5;}.sidebar .widget a:hover{color:#222422;}.sidebar .widget .widget-title{color:#222422;}.footer-widgets{color:#222422;background-color:#f39d35;}.footer-widgets h1,.footer-widgets h2,.footer-widgets h3{color:#222422;}.footer-widgets a,.footer-widgets a:visited{color:#f5f5f5;}.footer-widgets a:hover{color:#222422;}.footer-widgets .widget-title{color:#222422;}.site-info{color:#f5f5f5;background-color:#222422;}.site-info a,.site-info a:visited{color:#f39d35;}.site-info a:hover{color:#f5f5f5;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#555555;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#555555;background-color:#fdfffc;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.button:visited{color:#222422;background-color:#f39d35;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus{color:#f5f5f5;background-color:#222422;}.karna-back-to-top,.karna-back-to-top:visited{background-color:rgba(243,157,53,0.7);color:#222422;}.karna-back-to-top:hover,.karna-back-to-top:focus{background-color:#f39d35;color:#222422;}.karna-side-left-content .karna-side-left-socials ul,.karna-side-left-content .karna-side-left-text{color:#f5f5f5;background-color:#222422;}.karna-side-left-content a{color:#f39d35;}.karna-side-left-content a:hover{color:#f5f5f5;}@media (min-width:768px){.transparent-header .site-header{width:calc(100% - 0px - 0px) !important;}}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:15px;}}.nav-float-right .is_stuck.main-navigation{width:calc(100% - 0px - 0px) !important;}@media (max-width:768px){body{padding:0px;}}.main-navigation ul ul{top:auto;}.inside-navigation .search-form, .inside-navigation .search-form input{height:100%;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:8px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:8px;} 
+</style> 
+<link rel=\'stylesheet\' id=\'karna-mobile-style-css\' href=\'https://okoboji.in/wp-content/themes/karna/css/mobile.min.css?ver=1.1.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'font-awesome-css\' href=\'https://okoboji.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'elementor-icons-css\' href=\'https://okoboji.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'elementor-frontend-legacy-css\' href=\'https://okoboji.in/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.8.0\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'elementor-frontend-css\' href=\'https://okoboji.in/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.8.0\' type=\'text/css\' media=\'all\' /> 
+<style id=\'elementor-frontend-inline-css\' type=\'text/css\'> 
+.elementor-kit-11{--e-global-color-primary:#000000;--e-global-color-secondary:#FFFFFF;--e-global-color-text:#111428;--e-global-color-accent:#FFEE00;--e-global-typography-primary-font-family:"Rubik";--e-global-typography-primary-font-size:2em;--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Rubik";--e-global-typography-secondary-font-size:1.5em;--e-global-typography-secondary-font-weight:600;--e-global-typography-text-font-family:"Rubik";--e-global-typography-text-font-size:1em;--e-global-typography-text-font-weight:300;--e-global-typography-accent-font-family:"Rubik";--e-global-typography-accent-font-size:2.5em;--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}} 
+.elementor-12 .elementor-element.elementor-element-3b97a53b:not(.elementor-motion-effects-element-type-background), .elementor-12 .elementor-element.elementor-element-3b97a53b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://okoboji.in/wp-content/uploads/2021/07/DSC01315-scaled.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-12 .elementor-element.elementor-element-3b97a53b > .elementor-background-overlay{background-color:#2A2727;opacity:0.6;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-12 .elementor-element.elementor-element-3b97a53b .elementor-background-overlay{filter:brightness( 40% ) contrast( 120% ) saturate( 100% ) blur( 0px ) hue-rotate( 0deg );}.elementor-12 .elementor-element.elementor-element-3b97a53b{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-12 .elementor-element.elementor-element-77b687cd.elementor-widget-bdt-animated-heading{text-align:center;}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-heading-tag *{color:var( --e-global-color-secondary );-webkit-text-stroke-color:var( --e-global-color-secondary );}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-heading-tag{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-pre-heading{color:#FFEE00;-webkit-text-stroke-color:#FFEE00;font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-post-heading{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-12 .elementor-element.elementor-element-1ad57a1 .elementor-button{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );fill:#FFFFFF;color:#FFFFFF;background-color:var( --e-global-color-primary );border-style:solid;border-width:4px 4px 4px 4px;border-color:#FFEE009C;padding:2% 4% 2% 4%;}.elementor-12 .elementor-element.elementor-element-5c59ef5 > .elementor-container{max-width:1500px;}.elementor-12 .elementor-element.elementor-element-2cb0de0f.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-12 .elementor-element.elementor-element-cc3acb2{text-align:center;width:40%;max-width:40%;align-self:center;}.elementor-12 .elementor-element.elementor-element-cc3acb2 .elementor-heading-title{color:var( --e-global-color-primary );font-family:"Ubuntu", Sans-serif;font-size:2em;font-weight:600;line-height:1.8em;}.elementor-12 .elementor-element.elementor-element-cc3acb2 > .elementor-widget-container{margin:20px 0px 40px 0px;padding:2% 2% 2% 2%;background-color:var( --e-global-color-accent );border-radius:50px 50px 50px 50px;}.elementor-12 .elementor-element.elementor-element-30bc0512 ul.products{margin:-5px -5px 0;}.elementor-12 .elementor-element.elementor-element-30bc0512 .products li.product-category{width:calc( 100% / 5 );border:5px solid transparent;}.elementor-12 .elementor-element.elementor-element-30bc0512 ul.products li.product-category{margin:0;}.elementor-12 .elementor-element.elementor-element-30bc0512 .woocommerce .product-category a img{border-style:solid;border-width:0px 0px 3px 0px;border-radius:30px 30px 30px 30px;}.elementor-12 .elementor-element.elementor-element-30bc0512 .woocommerce .product-category .woocommerce-loop-category__title{color:var( --e-global-color-primary );margin:0% 0% 5% 0%;text-align:center;font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}@media(max-width:1024px){.elementor-12 .elementor-element.elementor-element-3b97a53b:not(.elementor-motion-effects-element-type-background), .elementor-12 .elementor-element.elementor-element-3b97a53b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://okoboji.in/wp-content/uploads/2021/07/DSC01315-scaled.jpg");}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-heading-tag{font-size:var( --e-global-typography-secondary-font-size );}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-pre-heading{font-size:var( --e-global-typography-primary-font-size );}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-post-heading{font-size:var( --e-global-typography-secondary-font-size );}.elementor-12 .elementor-element.elementor-element-1ad57a1 .elementor-button{font-size:var( --e-global-typography-primary-font-size );}.elementor-12 .elementor-element.elementor-element-5c59ef5 > .elementor-container{max-width:500px;}.elementor-12 .elementor-element.elementor-element-cc3acb2{width:65%;max-width:65%;}.elementor-12 .elementor-element.elementor-element-30bc0512 .products li.product-category{width:calc( 100% / 2 );border:5px solid transparent;}.elementor-12 .elementor-element.elementor-element-30bc0512 .woocommerce .product-category .woocommerce-loop-category__title{font-size:var( --e-global-typography-secondary-font-size );}}@media(max-width:767px){.elementor-12 .elementor-element.elementor-element-3b97a53b:not(.elementor-motion-effects-element-type-background), .elementor-12 .elementor-element.elementor-element-3b97a53b > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://okoboji.in/wp-content/uploads/2021/07/DSC01315-scaled.jpg");}.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-4f472267.elementor-column .elementor-column-wrap{align-items:space-around;}.elementor-12 .elementor-element.elementor-element-4f472267.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:space-around;align-items:space-around;}.elementor-12 .elementor-element.elementor-element-4f472267.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-12 .elementor-element.elementor-element-4f472267 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:0.1px;}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-heading-tag{font-size:var( --e-global-typography-secondary-font-size );}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-pre-heading{font-size:var( --e-global-typography-primary-font-size );}.elementor-12 .elementor-element.elementor-element-77b687cd .bdt-heading .bdt-post-heading{font-size:var( --e-global-typography-secondary-font-size );}.elementor-12 .elementor-element.elementor-element-77b687cd > .elementor-widget-container{margin:40% 0% 0% 0%;}.elementor-12 .elementor-element.elementor-element-1ad57a1 .elementor-button{font-size:var( --e-global-typography-primary-font-size );}.elementor-12 .elementor-element.elementor-element-1ad57a1 > .elementor-widget-container{margin:0% 0% 80% 0%;}.elementor-12 .elementor-element.elementor-element-30bc0512 .products li.product-category{width:calc( 100% / 1 );border:5px solid transparent;}.elementor-12 .elementor-element.elementor-element-30bc0512 .woocommerce .product-category .woocommerce-loop-category__title{font-size:var( --e-global-typography-secondary-font-size );}}/* Start custom CSS for bdt-wc-categories, class: .elementor-element-30bc0512 */.elementor-12 .elementor-element.elementor-element-30bc0512 img{ 
+    padding: 8% 8%; 
+}/* End custom CSS */ 
+.elementor-37 .elementor-element.elementor-element-eb08c36 > .elementor-container{max-width:1600px;}.elementor-37 .elementor-element.elementor-element-eb08c36 > .elementor-background-overlay{background-color:#868181;opacity:0.05;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-37 .elementor-element.elementor-element-eb08c36{border-style:solid;border-width:0px 0px 2px 0px;border-color:var( --e-global-color-primary );transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-37 .elementor-element.elementor-element-7435df0.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-37 .elementor-element.elementor-element-7435df0 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-37 .elementor-element.elementor-element-7435df0 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-37 .elementor-element.elementor-element-6dc795c img{width:12vw;max-width:100%;height:7vh;}.elementor-37 .elementor-element.elementor-element-6dc795c{width:auto;max-width:auto;}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-menu-toggle{margin:0 auto;background-color:var( --e-global-color-secondary );}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-nav-menu .elementor-item{font-family:"Rubik", Sans-serif;font-size:1em;font-weight:500;}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-nav-menu--main .elementor-item{color:var( --e-global-color-text );fill:var( --e-global-color-text );}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-nav-menu--dropdown a, .elementor-37 .elementor-element.elementor-element-d79a697 .elementor-menu-toggle{color:var( --e-global-color-text );}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-nav-menu--dropdown li:not(:last-child){border-style:solid;border-color:var( --e-global-color-text );border-bottom-width:2px;}.elementor-37 .elementor-element.elementor-element-d79a697 div.elementor-menu-toggle{color:var( --e-global-color-text );}.elementor-37 .elementor-element.elementor-element-d79a697 div.elementor-menu-toggle svg{fill:var( --e-global-color-text );}.elementor-37 .elementor-element.elementor-element-d79a697{width:auto;max-width:auto;align-self:center;}div.onepage_scroll_nav{display:block;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}@media(max-width:1024px){.elementor-37 .elementor-element.elementor-element-eb08c36{border-width:0px 0px 04px 0px;}.elementor-37 .elementor-element.elementor-element-7435df0 > .elementor-element-populated > .elementor-widget-wrap{padding:05px 20px 05px 20px;}.elementor-37 .elementor-element.elementor-element-6dc795c img{width:100%;object-fit:cover;}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-menu-toggle{font-size:35px;}}@media(max-width:767px){.elementor-37 .elementor-element.elementor-element-7435df0.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-37 .elementor-element.elementor-element-6dc795c{text-align:center;}.elementor-37 .elementor-element.elementor-element-6dc795c img{width:100%;}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-nav-menu--dropdown{border-radius:0px 0px 0px 0px;}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-nav-menu--dropdown li:first-child a{border-top-left-radius:0px;border-top-right-radius:0px;}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-nav-menu--dropdown li:last-child a{border-bottom-right-radius:0px;border-bottom-left-radius:0px;}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-nav-menu--main > .elementor-nav-menu > li > .elementor-nav-menu--dropdown, .elementor-37 .elementor-element.elementor-element-d79a697 .elementor-nav-menu__container.elementor-nav-menu--dropdown{margin-top:0px !important;}.elementor-37 .elementor-element.elementor-element-d79a697 .elementor-menu-toggle{font-size:34px;}} 
+.elementor-1408 .elementor-element.elementor-element-f58fa0c:not(.elementor-motion-effects-element-type-background), .elementor-1408 .elementor-element.elementor-element-f58fa0c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-text );}.elementor-1408 .elementor-element.elementor-element-f58fa0c{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-1408 .elementor-element.elementor-element-f58fa0c > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1408 .elementor-element.elementor-element-299eb61{color:var( --e-global-color-secondary );font-family:"Rubik", Sans-serif;font-size:1em;font-weight:300;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;} 
+</style> 
+<link rel=\'stylesheet\' id=\'embedpress-elementor-css-css\' href=\'https://okoboji.in/wp-content/plugins/embedpress/assets/css/embedpress-elementor.css?ver=3.5.3\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'elementor-pro-css\' href=\'https://okoboji.in/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.4.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'zakeke-glide-css\' href=\'https://okoboji.in/wp-content/plugins/zakeke-interactive-product-designer/assets/css/frontend/libs/glide.core.css?ver=3.1.2\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'zakeke-glide-theme-css\' href=\'https://okoboji.in/wp-content/plugins/zakeke-interactive-product-designer/assets/css/frontend/libs/glide.theme.css?ver=3.1.2\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'zakeke-shop-css\' href=\'https://okoboji.in/wp-content/plugins/zakeke-interactive-product-designer/assets/css/frontend/shop.css?ver=3.1.2\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'ekit-widget-styles-css\' href=\'https://okoboji.in/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.7.3\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'ekit-responsive-css\' href=\'https://okoboji.in/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.7.3\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'google-fonts-1-css\' href=\'https://fonts.googleapis.com/css?family=Rubik%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CUbuntu%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.1.1\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'elementor-icons-shared-0-css\' href=\'https://okoboji.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'elementor-icons-fa-solid-css\' href=\'https://okoboji.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'wpfm-google-fonts-css\' href=\'//fonts.googleapis.com/css?family=Roboto%3A100italic%2C100%2C300italic%2C300%2C400italic%2C400%2C500italic%2C500%2C700italic%2C700%2C900italic%2C900&#038;ver=6.1.1\' type=\'text/css\' media=\'all\' /> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-includes/js/jquery/jquery.min.js?ver=3.6.1\' id=\'jquery-core-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2\' id=\'jquery-migrate-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/accesspress-social-icons/js/frontend.js?ver=1.8.5\' id=\'aps-frontend-js-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2\' id=\'jquery-ui-core-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2\' id=\'jquery-ui-mouse-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2\' id=\'jquery-ui-sortable-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2\' id=\'jquery-ui-tabs-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2\' id=\'jquery-ui-datepicker-js\'></script> 
+<script type=\'text/javascript\' id=\'jquery-ui-datepicker-js-after\'> 
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});}); 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2\' id=\'jquery-effects-core-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.13.2\' id=\'jquery-effects-slide-js\'></script> 
+<script type=\'text/javascript\' id=\'rm_front-js-extra\'> 
+/* <![CDATA[ */ 
+var rm_ajax = {"url":"https:\\/\\/okoboji.in\\/wp-admin\\/admin-ajax.php","nonce":"01cd5817ce","gmap_api":null,"no_results":"No Results Found","invalid_zip":"Invalid Zip Code","request_processing":"Please wait...","hours":"Hours","minutes":"Minutes","seconds":"Seconds","days":"Days","months":"Months","years":"Years","tax_enabled":null,"tax_type":null,"tax_fixed":"0","tax_percentage":"0","max_otp_attempt":"3"}; 
+/* ]]> */ 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/registrationmagic-premium-v5.0.0.9/public/js/script_rm_front.js?ver=5.1.8.0\' id=\'rm_front-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/custom-registration-form-builder-with-submission-manager/public/js/jquery.validate.min.js?ver=5.1.8.0\' id=\'rm_jquery_validate-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/custom-registration-form-builder-with-submission-manager/public/js/additional-methods.min.js?ver=5.1.8.0\' id=\'rm_jquery_validate_add-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/custom-registration-form-builder-with-submission-manager/public/js/conditionize.jquery.js?ver=5.1.8.0\' id=\'rm_jquery_conditionalize-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/embedpress/assets/js/pdfobject.min.js?ver=3.5.3\' id=\'embedpress-pdfobject-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/wp-floating-menu/js/frontend.js?ver=1.4.4\' id=\'wpfm-frontend-js-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/zakeke-interactive-product-designer/assets/js/frontend/product-page.js?ver=3.1.2\' id=\'zakeke-product-page-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/zakeke-interactive-product-designer/assets/js/frontend/libs/glide.js?ver=3.1.2\' id=\'zakeke-glide-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/zakeke-interactive-product-designer/assets/js/frontend/shop.js?ver=3.1.2\' id=\'zakeke-shop-js\'></script> 
+<link rel="https://api.w.org/" href="https://okoboji.in/wp-json/" /><link rel="alternate" type="application/json" href="https://okoboji.in/wp-json/wp/v2/pages/12" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://okoboji.in/xmlrpc.php?rsd" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://okoboji.in/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.1.1" /> 
+<meta name="generator" content="WooCommerce 7.0.0" /> 
+<link rel="canonical" href="https://okoboji.in/" /> 
+<link rel=\'shortlink\' href=\'https://okoboji.in/\' /> 
+<link rel="alternate" type="application/json+oembed" href="https://okoboji.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fokoboji.in%2F" /> 
+<link rel="alternate" type="text/xml+oembed" href="https://okoboji.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fokoboji.in%2F&#038;format=xml" /> 
+ 
+        <script type="text/javascript"> 
+            var jQueryMigrateHelperHasSentDowngrade = false; 
+ 
+\t\t\twindow.onerror = function( msg, url, line, col, error ) { 
+\t\t\t\t// Break out early, do not processing if a downgrade reqeust was already sent. 
+\t\t\t\tif ( jQueryMigrateHelperHasSentDowngrade ) { 
+\t\t\t\t\treturn true; 
+                } 
+ 
+\t\t\t\tvar xhr = new XMLHttpRequest(); 
+\t\t\t\tvar nonce = \'3361b0c4a9\'; 
+\t\t\t\tvar jQueryFunctions = [ 
+\t\t\t\t\t\'andSelf\', 
+\t\t\t\t\t\'browser\', 
+\t\t\t\t\t\'live\', 
+\t\t\t\t\t\'boxModel\', 
+\t\t\t\t\t\'support.boxModel\', 
+\t\t\t\t\t\'size\', 
+\t\t\t\t\t\'swap\', 
+\t\t\t\t\t\'clean\', 
+\t\t\t\t\t\'sub\', 
+                ]; 
+\t\t\t\tvar match_pattern = /\\)\\.(.+?) is not a function/; 
+                var erroredFunction = msg.match( match_pattern ); 
+ 
+                // If there was no matching functions, do not try to downgrade. 
+                if ( typeof erroredFunction !== \'object\' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) { 
+                    return true; 
+                } 
+ 
+                // Set that we\'ve now attempted a downgrade request. 
+                jQueryMigrateHelperHasSentDowngrade = true; 
+ 
+\t\t\t\txhr.open( \'POST\', \'https://okoboji.in/wp-admin/admin-ajax.php\' ); 
+\t\t\t\txhr.setRequestHeader( \'Content-Type\', \'application/x-www-form-urlencoded\' ); 
+\t\t\t\txhr.onload = function () { 
+\t\t\t\t\tvar response, 
+                        reload = false; 
+ 
+\t\t\t\t\tif ( 200 === xhr.status ) { 
+                        try { 
+                        \tresponse = JSON.parse( xhr.response ); 
+ 
+                        \treload = response.data.reload; 
+                        } catch ( e ) { 
+                        \treload = false; 
+                        } 
+                    } 
+ 
+\t\t\t\t\t// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience. 
+\t\t\t\t\tif ( reload ) { 
+\t\t\t\t\t\tlocation.reload(); 
+                    } 
+\t\t\t\t}; 
+ 
+\t\t\t\txhr.send( encodeURI( \'action=jquery-migrate-downgrade-version&_wpnonce=\' + nonce ) ); 
+ 
+\t\t\t\t// Suppress error alerts in older browsers 
+\t\t\t\treturn true; 
+\t\t\t} 
+        </script> 
+ 
+\t\t<meta name="viewport" content="width=device-width, initial-scale=1">\t<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript> 
+\t<style type="text/css" id="custom-background-css"> 
+body.custom-background { background-color: #ffffff; } 
+</style> 
+\t<link rel="icon" href="https://okoboji.in/wp-content/uploads/2021/07/cropped-okoboji-R-500x500-1-32x32.png" sizes="32x32" /> 
+<link rel="icon" href="https://okoboji.in/wp-content/uploads/2021/07/cropped-okoboji-R-500x500-1-192x192.png" sizes="192x192" /> 
+<link rel="apple-touch-icon" href="https://okoboji.in/wp-content/uploads/2021/07/cropped-okoboji-R-500x500-1-180x180.png" /> 
+<meta name="msapplication-TileImage" content="https://okoboji.in/wp-content/uploads/2021/07/cropped-okoboji-R-500x500-1-270x270.png" /> 
+\t\t<style type="text/css" id="wp-custom-css"> 
+\t\t\t.count{ 
+\tdisplay: none; 
+} 
+\t\t</style> 
+\t\t</head> 
+<body class="home page-template page-template-elementor_header_footer page page-id-12 custom-background wp-custom-logo theme-karna woocommerce-no-js  no-sidebar nav-float-right fluid-header one-container active-footer-widgets-3 nav-search-enabled nav-aligned-right header-aligned-left dropdown-hover navigation-effect-none elementor-default elementor-template-full-width elementor-kit-11 elementor-page elementor-page-12"> 
+ 
+\t\t<header data-elementor-type="header" data-elementor-id="37" class="elementor elementor-37 elementor-location-header" data-elementor-settings="{&quot;ekit_onepagescroll&quot;:&quot;block&quot;}"> 
+\t\t<div class="elementor-section-wrap"> 
+\t\t\t\t\t<section class="elementor-section elementor-top-section elementor-element elementor-element-eb08c36 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="eb08c36" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"> 
+\t\t\t\t\t\t\t<div class="elementor-background-overlay"></div> 
+\t\t\t\t\t\t\t<div class="elementor-container elementor-column-gap-default"> 
+\t\t\t\t\t\t\t<div class="elementor-row"> 
+\t\t\t\t\t<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7435df0" data-id="7435df0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"> 
+\t\t\t<div class="elementor-column-wrap elementor-element-populated"> 
+\t\t\t\t\t\t\t<div class="elementor-widget-wrap"> 
+\t\t\t\t\t\t<div class="elementor-element elementor-element-6dc795c elementor-widget__width-auto elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="6dc795c" data-element_type="widget" data-widget_type="theme-site-logo.default"> 
+\t\t\t\t<div class="elementor-widget-container"> 
+\t\t\t\t\t\t\t\t<div class="elementor-image"> 
+\t\t\t\t\t\t\t\t\t\t\t\t\t<a href="https://okoboji.in"> 
+\t\t\t\t\t\t\t<img width="300" height="88" src="https://okoboji.in/wp-content/uploads/2021/07/cropped-okoboji-R-small-300x88.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://okoboji.in/wp-content/uploads/2021/07/cropped-okoboji-R-small-300x88.png 300w, https://okoboji.in/wp-content/uploads/2021/07/cropped-okoboji-R-small-268x79.png 268w, https://okoboji.in/wp-content/uploads/2021/07/cropped-okoboji-R-small.png 560w" sizes="(max-width: 300px) 100vw, 300px" />\t\t\t\t\t\t\t\t</a> 
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div> 
+\t\t\t\t\t\t</div> 
+\t\t\t\t</div> 
+\t\t\t\t<div class="elementor-element elementor-element-d79a697 elementor-widget__width-auto elementor-nav-menu__align-right elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="d79a697" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\\&quot;fas fa-caret-down\\&quot;&gt;&lt;\\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default"> 
+\t\t\t\t<div class="elementor-widget-container"> 
+\t\t\t<link rel="stylesheet" href="https://okoboji.in/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">\t\t\t<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-d79a697" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-56"><a href="https://okoboji.in/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li> 
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://okoboji.in/about-us/" class="elementor-item">About Us</a></li> 
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://okoboji.in/contact-us/" class="elementor-item">Contact Us</a></li> 
+</ul></nav> 
+\t\t\t\t\t<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> 
+\t\t\t<i aria-hidden="true" role="presentation" class="eicon-menu-bar"></i>\t\t\t<span class="elementor-screen-only">Menu</span> 
+\t\t</div> 
+\t\t\t<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-d79a697" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-12 current_page_item menu-item-56"><a href="https://okoboji.in/" aria-current="page" class="elementor-item elementor-item-active" tabindex="-1">Home</a></li> 
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://okoboji.in/about-us/" class="elementor-item" tabindex="-1">About Us</a></li> 
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://okoboji.in/contact-us/" class="elementor-item" tabindex="-1">Contact Us</a></li> 
+</ul></nav> 
+\t\t\t\t</div> 
+\t\t\t\t</div> 
+\t\t\t\t\t\t</div> 
+\t\t\t\t\t</div> 
+\t\t</div> 
+\t\t\t\t\t\t\t\t</div> 
+\t\t\t\t\t</div> 
+\t\t</section> 
+\t\t\t\t</div> 
+\t\t</header> 
+\t\t\t\t<div data-elementor-type="wp-page" data-elementor-id="12" class="elementor elementor-12"> 
+\t\t\t\t\t\t<div class="elementor-inner"> 
+\t\t\t\t<div class="elementor-section-wrap"> 
+\t\t\t\t\t\t\t              <div data-parallax-id="bdt_scene3b97a53b"\r 
+                   id="bdt_scene3b97a53b" class="parallax-scene" data-hover-only="true">\r 
+                                        \r 
+                      \r 
+                    <div data-depth=""\r 
+                         class="bdt-scene-item" style="background-position-x: 100%; background-position-y: 100%; background-size: cover; background-image: url(https://okoboji.in/wp-content/uploads/2021/07/DSC01315-scaled.jpg);"></div>\r 
+                  \r 
+                                </div>\r 
+                \r 
+                \t\t<section class="has-bdt-parallax elementor-section elementor-top-section elementor-element elementor-element-3b97a53b elementor-section-height-full elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="3b97a53b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"> 
+\t\t\t\t\t\t\t<div class="elementor-background-overlay"></div> 
+\t\t\t\t\t\t\t<div class="elementor-container elementor-column-gap-default"> 
+\t\t\t\t\t\t\t<div class="elementor-row"> 
+\t\t\t\t\t<main class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4f472267" data-id="4f472267" data-element_type="column"> 
+\t\t\t<div class="elementor-column-wrap elementor-element-populated"> 
+\t\t\t\t\t\t\t<div class="elementor-widget-wrap"> 
+\t\t\t\t\t\t<div class="elementor-element elementor-element-77b687cd elementor-widget elementor-widget-bdt-animated-heading" data-id="77b687cd" data-element_type="widget" data-widget_type="bdt-animated-heading.default"> 
+\t\t\t\t<div class="elementor-widget-container"> 
+\t\t\t<div id ="bdtah-77b687cd" class="bdt-heading"><h1 class="bdt-heading-tag" style="opacity: 0;"><div class="bdt-pre-heading">Browse </div> <div id="bdt-ah-77b687cd" class="bdt-animated-heading" data-settings="{&quot;layout&quot;:&quot;typed&quot;,&quot;strings&quot;:[&quot;Our Huge Range of&quot;],&quot;typeSpeed&quot;:100,&quot;startDelay&quot;:100,&quot;backSpeed&quot;:60,&quot;backDelay&quot;:3000,&quot;loop&quot;:true}"></div> <div class="bdt-post-heading">Products</div></h1></div>\t\t</div> 
+\t\t\t\t</div> 
+\t\t\t\t<div class="elementor-element elementor-element-1ad57a1 elementor-align-center elementor-widget elementor-widget-button" data-id="1ad57a1" data-element_type="widget" data-widget_type="button.default"> 
+\t\t\t\t<div class="elementor-widget-container"> 
+\t\t\t\t\t<div class="elementor-button-wrapper"> 
+\t\t\t<a href="#Home_category" class="elementor-button-link elementor-button elementor-size-sm" role="button"> 
+\t\t\t\t\t\t<span class="elementor-button-content-wrapper"> 
+\t\t\t\t\t\t<span class="elementor-button-text">Browse</span> 
+\t\t</span> 
+\t\t\t\t\t</a> 
+\t\t</div> 
+\t\t\t\t</div> 
+\t\t\t\t</div> 
+\t\t\t\t\t\t</div> 
+\t\t\t\t\t</div> 
+\t\t</main> 
+\t\t\t\t\t\t\t\t</div> 
+\t\t\t\t\t</div> 
+\t\t</section> 
+\t\t\t\t<section class="elementor-section elementor-top-section elementor-element elementor-element-5c59ef5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c59ef5" data-element_type="section"> 
+\t\t\t\t\t\t<div class="elementor-container elementor-column-gap-default"> 
+\t\t\t\t\t\t\t<div class="elementor-row"> 
+\t\t\t\t\t<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2cb0de0f" data-id="2cb0de0f" data-element_type="column"> 
+\t\t\t<div class="elementor-column-wrap elementor-element-populated"> 
+\t\t\t\t\t\t\t<div class="elementor-widget-wrap"> 
+\t\t\t\t\t\t<div class="elementor-element elementor-element-cc3acb2 elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget elementor-widget-heading" data-id="cc3acb2" data-element_type="widget" data-widget_type="heading.default"> 
+\t\t\t\t<div class="elementor-widget-container"> 
+\t\t\t<style>/*! elementor - v3.8.0 - 30-10-2022 */ 
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">Store</h1>\t\t</div> 
+\t\t\t\t</div> 
+\t\t\t\t<div class="elementor-element elementor-element-30bc0512 elementor-widget elementor-widget-bdt-wc-categories" data-id="30bc0512" data-element_type="widget" id="Home_category" data-settings="{&quot;item_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:5,&quot;sizes&quot;:[]}}" data-widget_type="bdt-wc-categories.default"> 
+\t\t\t\t<div class="elementor-widget-container"> 
+\t\t\t<div class="woocommerce columns-5"><ul class="products columns-5"> 
+<li class="product-category product first"> 
+\t<a href="https://okoboji.in/product-category/badge-making-solutions/"><img decoding="async" src="https://okoboji.in/wp-content/uploads/2021/07/Badge-Maker-9-OKEQBGE-MAQ.jpeg" alt="Badge Making Solutions" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Badge-Maker-9-OKEQBGE-MAQ.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Badge-Maker-9-OKEQBGE-MAQ-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tBadge Making Solutions <mark class="count">(26)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/binders/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Binders-23-OKEQBM-SW2500.jpeg" alt="Binders" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Binders-23-OKEQBM-SW2500.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Binders-23-OKEQBM-SW2500-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tBinders <mark class="count">(14)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/corner-cutter/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Corner-Cutter-40-OKEQCC-S100_2.jpeg" alt="Corner Cutter" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Corner-Cutter-40-OKEQCC-S100_2.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Corner-Cutter-40-OKEQCC-S100_2-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tCorner Cutter <mark class="count">(9)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/electric-stapler/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Stapler-154-OKEQSS-Desktop.jpeg" alt="Electric Stapler" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Stapler-154-OKEQSS-Desktop.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Stapler-154-OKEQSS-Desktop-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tElectric Stapler <mark class="count">(3)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product last"> 
+\t<a href="https://okoboji.in/product-category/eyelet-machine/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Eyelet-Machine-43-OKEQEYL-Dual-Head.jpeg" alt="Eyelet Machine" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Eyelet-Machine-43-OKEQEYL-Dual-Head.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Eyelet-Machine-43-OKEQEYL-Dual-Head-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tEyelet Machine <mark class="count">(10)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product first"> 
+\t<a href="https://okoboji.in/product-category/foil-stamping/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Foil-Stamping-55-OKEQFS-150R_2.jpeg" alt="Foil Stamping" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Foil-Stamping-55-OKEQFS-150R_2.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Foil-Stamping-55-OKEQFS-150R_2-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tFoil Stamping <mark class="count">(13)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/gluing-machine/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Gluing-Machine-20-O-OKCLEGM-GM700_2.jpeg" alt="Gluing Machine" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Gluing-Machine-20-O-OKCLEGM-GM700_2.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Gluing-Machine-20-O-OKCLEGM-GM700_2-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tGluing Machine <mark class="count">(1)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/half-cut-creaser/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Half-Cut-Creaser-61-OKEQHCC-ACM13.jpeg" alt="Half Cut Creaser" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Half-Cut-Creaser-61-OKEQHCC-ACM13.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Half-Cut-Creaser-61-OKEQHCC-ACM13-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tHalf Cut Creaser <mark class="count">(7)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/handheld-punch/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Handheld-Punch-68-OKEQCC-Corner-Cutter.jpeg" alt="Handheld Punch" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Handheld-Punch-68-OKEQCC-Corner-Cutter.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Handheld-Punch-68-OKEQCC-Corner-Cutter-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tHandheld Punch <mark class="count">(13)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product last"> 
+\t<a href="https://okoboji.in/product-category/hole-punch/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Hole-Punch-83-OKEQHP-HD.jpeg" alt="Hole Punch" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Hole-Punch-83-OKEQHP-HD.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Hole-Punch-83-OKEQHP-HD-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tHole Punch <mark class="count">(10)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product first"> 
+\t<a href="https://okoboji.in/product-category/id-card/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/ID-Card-95-OKEQID-EM-PVC_1.jpeg" alt="ID Card" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/ID-Card-95-OKEQID-EM-PVC_1.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/ID-Card-95-OKEQID-EM-PVC_1-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tID Card <mark class="count">(8)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/index/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Index-27-O-OKCLEIDM-IDM100.jpg" alt="Index" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Index-27-O-OKCLEIDM-IDM100.jpg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Index-27-O-OKCLEIDM-IDM100-100x100.jpg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tIndex <mark class="count">(1)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/lam-compressor/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Lam-Compressor-101-OKEQCOM-OTS550.jpg" alt="Lam Compressor" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Lam-Compressor-101-OKEQCOM-OTS550.jpg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Lam-Compressor-101-OKEQCOM-OTS550-100x100.jpg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tLam Compressor <mark class="count">(1)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/laminator-cold/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Laminator-Cold-28-O-OKCLELC-63-inch.jpeg" alt="Laminator Cold" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Laminator-Cold-28-O-OKCLELC-63-inch.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Laminator-Cold-28-O-OKCLELC-63-inch-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tLaminator Cold <mark class="count">(15)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product last"> 
+\t<a href="https://okoboji.in/product-category/laminator-pouch/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Laminator-Pouch-113-OKEQLP-320-Meter.jpeg" alt="Laminator Pouch" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Laminator-Pouch-113-OKEQLP-320-Meter.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Laminator-Pouch-113-OKEQLP-320-Meter-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tLaminator Pouch <mark class="count">(6)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product first"> 
+\t<a href="https://okoboji.in/product-category/laminator-thermal/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Laminator-Thermal-122-OKEQLT-FM1100.jpeg" alt="Laminator Thermal" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Laminator-Thermal-122-OKEQLT-FM1100.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Laminator-Thermal-122-OKEQLT-FM1100-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tLaminator Thermal <mark class="count">(7)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/laser-machine/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Laser-Machine-126-OKCLELAS-K3020.jpg" alt="Laser Machine" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Laser-Machine-126-OKCLELAS-K3020.jpg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Laser-Machine-126-OKCLELAS-K3020-100x100.jpg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tLaser Machine <mark class="count">(1)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/paper-cutter-digital/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Paper-Cutter-Digital-43-O-OKEQPCD-670H.jpeg" alt="Paper Cutter Digital" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Paper-Cutter-Digital-43-O-OKEQPCD-670H.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Paper-Cutter-Digital-43-O-OKEQPCD-670H-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tPaper Cutter Digital <mark class="count">(9)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/paper-cutter-manual/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Paper-Cutter-Manual-133-OKEQPCM-8274.jpeg" alt="Paper Cutter Manual" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Paper-Cutter-Manual-133-OKEQPCM-8274.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Paper-Cutter-Manual-133-OKEQPCM-8274-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tPaper Cutter Manual <mark class="count">(13)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product last"> 
+\t<a href="https://okoboji.in/product-category/perfect-binder/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Perfect-Binder-143-OKEQPB-D60A3.jpeg" alt="Perfect Binder" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Perfect-Binder-143-OKEQPB-D60A3.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Perfect-Binder-143-OKEQPB-D60A3-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tPerfect Binder <mark class="count">(8)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product first"> 
+\t<a href="https://okoboji.in/product-category/rigid-box/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Rigid-Box-151-OKEQRB-BMC.jpeg" alt="Rigid Box" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Rigid-Box-151-OKEQRB-BMC.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Rigid-Box-151-OKEQRB-BMC-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tRigid Box <mark class="count">(4)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/sublimation-heat-press/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Sublimation-Heat-Press-55-O-OKEQSHP-XY-003-2-3838_8.jpeg" alt="Sublimation Heat Press" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Sublimation-Heat-Press-55-O-OKEQSHP-XY-003-2-3838_8.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Sublimation-Heat-Press-55-O-OKEQSHP-XY-003-2-3838_8-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tSublimation Heat Press <mark class="count">(26)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/sublimation-mug-press/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Sublimation-Mug-Press-178-OKEQSMP-MP80B.jpeg" alt="Sublimation Mug Press" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Sublimation-Mug-Press-178-OKEQSMP-MP80B.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Sublimation-Mug-Press-178-OKEQSMP-MP80B-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tSublimation Mug Press <mark class="count">(10)</mark>\t\t</h2> 
+\t\t</a></li> 
+<li class="product-category product"> 
+\t<a href="https://okoboji.in/product-category/visiting-card-cutter/"><img decoding="async" loading="lazy" src="https://okoboji.in/wp-content/uploads/2021/07/Visiting-Card-Cutter-62-O-OKCLEVCC-331SSC.jpeg" alt="Visiting Card Cutter" width="1500" height="1500" srcset="https://okoboji.in/wp-content/uploads/2021/07/Visiting-Card-Cutter-62-O-OKCLEVCC-331SSC.jpeg 1500w, https://okoboji.in/wp-content/uploads/2021/07/Visiting-Card-Cutter-62-O-OKCLEVCC-331SSC-100x100.jpeg 100w" sizes="(max-width: 1500px) 100vw, 1500px" />\t\t<h2 class="woocommerce-loop-category__title"> 
+\t\t\tVisiting Card Cutter <mark class="count">(3)</mark>\t\t</h2> 
+\t\t</a></li> 
+</ul> 
+</div>\t\t</div> 
+\t\t\t\t</div> 
+\t\t\t\t\t\t</div> 
+\t\t\t\t\t</div> 
+\t\t</div> 
+\t\t\t\t\t\t\t\t</div> 
+\t\t\t\t\t</div> 
+\t\t</section> 
+\t\t\t\t\t\t\t\t\t</div> 
+\t\t\t</div> 
+\t\t\t\t\t</div> 
+\t\t\t\t<div data-elementor-type="footer" data-elementor-id="1408" class="elementor elementor-1408 elementor-location-footer"> 
+\t\t<div class="elementor-section-wrap"> 
+\t\t\t\t\t<section class="elementor-section elementor-top-section elementor-element elementor-element-f58fa0c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f58fa0c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"> 
+\t\t\t\t\t\t<div class="elementor-container elementor-column-gap-default"> 
+\t\t\t\t\t\t\t<div class="elementor-row"> 
+\t\t\t\t\t<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d753498" data-id="d753498" data-element_type="column"> 
+\t\t\t<div class="elementor-column-wrap elementor-element-populated"> 
+\t\t\t\t\t\t\t<div class="elementor-widget-wrap"> 
+\t\t\t\t\t\t<div class="elementor-element elementor-element-299eb61 elementor-widget elementor-widget-text-editor" data-id="299eb61" data-element_type="widget" data-widget_type="text-editor.default"> 
+\t\t\t\t<div class="elementor-widget-container"> 
+\t\t\t<style>/*! elementor - v3.8.0 - 30-10-2022 */ 
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>\t\t\t\t\t<div class="elementor-text-editor elementor-clearfix"> 
+\t\t\t\t<p>\xc2\xa9 Copyright Osp Investment Solutions 2020. Designed and Developed by Osp Investment Solutions</p>\t\t\t\t\t</div> 
+\t\t\t\t\t\t</div> 
+\t\t\t\t</div> 
+\t\t\t\t\t\t</div> 
+\t\t\t\t\t</div> 
+\t\t</div> 
+\t\t\t\t\t\t\t\t</div> 
+\t\t\t\t\t</div> 
+\t\t</section> 
+\t\t\t\t</div> 
+\t\t</div> 
+\t\t 
+<!-- Instagram Feed JS -->\r 
+<script type="text/javascript">\r 
+var sbiajaxurl = "https://okoboji.in/wp-admin/admin-ajax.php";\r 
+</script>\r 
+\t<script type="text/javascript"> 
+\t\t(function () { 
+\t\t\tvar c = document.body.className; 
+\t\t\tc = c.replace(/woocommerce-no-js/, \'woocommerce-js\'); 
+\t\t\tdocument.body.className = c; 
+\t\t})(); 
+\t</script> 
+\t<link rel=\'stylesheet\' id=\'ep-image-parallax-css\' href=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/css/ep-image-parallax.css?ver=5.9.4\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'ep-animated-heading-css\' href=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/css/ep-animated-heading.css?ver=5.9.4\' type=\'text/css\' media=\'all\' /> 
+<link rel=\'stylesheet\' id=\'ep-woocommerce-css\' href=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/css/ep-woocommerce.css?ver=5.9.4\' type=\'text/css\' media=\'all\' /> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4\' id=\'swv-js\'></script> 
+<script type=\'text/javascript\' id=\'contact-form-7-js-extra\'> 
+/* <![CDATA[ */ 
+var wpcf7 = {"api":{"root":"https:\\/\\/okoboji.in\\/wp-json\\/","namespace":"contact-form-7\\/v1"}}; 
+/* ]]> */ 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4\' id=\'contact-form-7-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/embedpress/assets/js/front.js?ver=3.5.3\' id=\'embedpress-front-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.0.0\' id=\'jquery-blockui-js\'></script> 
+<script type=\'text/javascript\' id=\'wc-add-to-cart-js-extra\'> 
+/* <![CDATA[ */ 
+var wc_add_to_cart_params = {"ajax_url":"\\/wp-admin\\/admin-ajax.php","wc_ajax_url":"\\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\\/\\/okoboji.in","is_cart":"","cart_redirect_after_add":"no"}; 
+/* ]]> */ 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.0.0\' id=\'wc-add-to-cart-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.0.0\' id=\'js-cookie-js\'></script> 
+<script type=\'text/javascript\' id=\'woocommerce-js-extra\'> 
+/* <![CDATA[ */ 
+var woocommerce_params = {"ajax_url":"\\/wp-admin\\/admin-ajax.php","wc_ajax_url":"\\/?wc-ajax=%%endpoint%%"}; 
+/* ]]> */ 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.0.0\' id=\'woocommerce-js\'></script> 
+<script type=\'text/javascript\' id=\'wc-cart-fragments-js-extra\'> 
+/* <![CDATA[ */ 
+var wc_cart_fragments_params = {"ajax_url":"\\/wp-admin\\/admin-ajax.php","wc_ajax_url":"\\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_660f10cc181b0604e271ca703849de16","fragment_name":"wc_fragments_660f10cc181b0604e271ca703849de16","request_timeout":"5000"}; 
+/* ]]> */ 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.0.0\' id=\'wc-cart-fragments-js\'></script> 
+<!--[if lte IE 11]> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/themes/karna/js/classList.min.js?ver=1.1.0\' id=\'karna-classlist-js\'></script> 
+<![endif]--> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/themes/karna/js/menu.min.js?ver=1.1.0\' id=\'karna-menu-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/themes/karna/js/a11y.min.js?ver=1.1.0\' id=\'karna-a11y-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/themes/karna/js/navigation-search.min.js?ver=1.1.0\' id=\'karna-navigation-search-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/themes/karna/js/back-to-top.min.js?ver=1.1.0\' id=\'karna-back-to-top-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.7.3\' id=\'elementskit-framework-js-frontend-js\'></script> 
+<script type=\'text/javascript\' id=\'elementskit-framework-js-frontend-js-after\'> 
+\t\tvar elementskit = { 
+\t\t\tresturl: \'https://okoboji.in/wp-json/elementskit/v1/\', 
+\t\t} 
+ 
+\t\t 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.7.3\' id=\'ekit-widget-scripts-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1\' id=\'smartmenus-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/parallax.min.js\' id=\'bdt-parallax-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/morphext.min.js?ver=2.4.7\' id=\'morphext-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/typed.min.js\' id=\'typed-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/gsap.min.js?ver=3.3.0\' id=\'gsap-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/vendor/js/SplitText.min.js?ver=3.3.0\' id=\'split-text-js\'></script> 
+<script type=\'text/javascript\' id=\'bdt-uikit-js-extra\'> 
+/* <![CDATA[ */ 
+var element_pack_ajax_login_config = {"ajaxurl":"https:\\/\\/okoboji.in\\/wp-admin\\/admin-ajax.php","loadingmessage":"Sending user info, please wait...","unknownerror":"Unknown error, make sure access is correct!"}; 
+var ElementPackConfig = {"ajaxurl":"https:\\/\\/okoboji.in\\/wp-admin\\/admin-ajax.php","nonce":"f3e717a1a2","data_table":{"language":{"lengthMenu":"Show _MENU_ Entries","info":"Showing _START_ to _END_ of _TOTAL_ entries","search":"Search :","paginate":{"previous":"Previous","next":"Next"}}},"contact_form":{"sending_msg":"Sending message please wait...","captcha_nd":"Invisible captcha not defined!","captcha_nr":"Could not get invisible captcha response!"},"mailchimp":{"subscribing":"Subscribing you please wait..."},"elements_data":{"sections":[],"columns":[],"widgets":[]}}; 
+/* ]]> */ 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/js/bdt-uikit.min.js?ver=3.5.5\' id=\'bdt-uikit-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.8.0\' id=\'elementor-webpack-runtime-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.8.0\' id=\'elementor-frontend-modules-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2\' id=\'elementor-waypoints-js\'></script> 
+<script type=\'text/javascript\' id=\'elementor-frontend-js-before\'> 
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.8.0","is_static":false,"experimentalFeatures":{"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/okoboji.in\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":12,"title":"%E3%82%AA%E3%82%AB%E3%83%9C%E3%82%B8%20%E2%80%93%20Okoboji","excerpt":"","featuredImage":false}}; 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.0\' id=\'elementor-frontend-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/bdthemes-element-pack/assets/js/element-pack-site.min.js?ver=5.9.4\' id=\'element-pack-site-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.4.1\' id=\'elementor-pro-webpack-runtime-js\'></script> 
+<script type=\'text/javascript\' id=\'elementor-pro-frontend-js-before\'> 
+var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/okoboji.in\\/wp-admin\\/admin-ajax.php","nonce":"8164e4edc9","urls":{"assets":"https:\\/\\/okoboji.in\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/okoboji.in\\/wp-json\\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"menu_cart":{"cart_page_url":"https:\\/\\/okoboji.in","checkout_page_url":"https:\\/\\/okoboji.in"},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/okoboji.in\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.4.1\' id=\'elementor-pro-frontend-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.4.1\' id=\'pro-elements-handlers-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.7.3\' id=\'animate-circle-js\'></script> 
+<script type=\'text/javascript\' id=\'elementskit-elementor-js-extra\'> 
+/* <![CDATA[ */ 
+var ekit_config = {"ajaxurl":"https:\\/\\/okoboji.in\\/wp-admin\\/admin-ajax.php","nonce":"4865c6a91a"}; 
+/* ]]> */ 
+</script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.7.3\' id=\'elementskit-elementor-js\'></script> 
+<script type=\'text/javascript\' src=\'https://okoboji.in/wp-content/plugins/shortcodes-ultimate/vendor/swiper/swiper.js?ver=2.6.1\' id=\'swiper-js\'></script> 
+ 
+</body> 
+</html> 
+' 
